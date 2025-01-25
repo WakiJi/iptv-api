@@ -1,4 +1,15 @@
 {
+  "sites": [
+    {
+      "key": "test",
+      "name": "测试",
+      "type": 3,
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+  ],
   "lives": [
     {
       "name": "测试",
