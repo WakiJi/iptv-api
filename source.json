@@ -1,15 +1,10 @@
 {
   "lives": [
     {
-      "group": "直播",
-      "channels": [
-        {
-          "name": "直播源",
-          "urls": [
-            "https://raw.githubusercontent.com/WakiJi/iptv-api/refs/heads/self/output/result.txt"
-          ]
-        }
-      ]
+      "name": "测试",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/WakiJi/iptv-api/refs/heads/self/output/result.txt",
+      "playerType": 1
     }
   ],
   "ijk": [
